@@ -1,0 +1,9 @@
+{
+  "accession": "GSE72056",
+  "cells": 4645,
+  "genes_in_working_matrix": 1510,
+  "patients": 19,
+  "leiden_clusters": 18,
+  "seed": 42,
+  "input_scale": "Published processed log-expression matrix; no count normalization repeated"
+}
